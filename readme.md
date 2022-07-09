@@ -7,3 +7,7 @@ If you are using VS Code and prettier and want Prettier to work with .php files,
 ```
 npm install
 ```
+
+
+crash course link on youtube
+https://www.youtube.com/watch?v=BUCiSSyIGGU
